@@ -8,7 +8,7 @@ The repository contains the script used to generate the 4-panel figure (CBD, THC
 
 ---
 
-## 🧬 Figure 1 – Overview
+## Figure 1 – Overview
 
 The script produces a **2×2 multi-panel figure**:
 
